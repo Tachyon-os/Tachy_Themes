@@ -1,11 +1,10 @@
 {
-    "name": "Rosie Blue",
+    "name": "Gray_mono",
     "description": "Blue rosie theme",
     "version": "2.1",
     "authors": [
 		{
-			"name": "Mudrhiod",
-        	"id": "807170846497570848"
+			"name": "Tachyon-os"
       	}
     ],
     "semanticColors": {
