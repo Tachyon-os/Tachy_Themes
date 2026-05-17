@@ -2,10 +2,15 @@
     "name": "Gray_one",
     "description": "A Gray minimalist theme, a recolor inspired by Rosie Blue made by Mudrhiod",
     "version": "2.1",
-    "authors": [
-		{
-			"name": "Tachyon-os"
-      	}
+   "authors": [
+        {
+            "name": "mudrhiod",
+            "id": "807170846497570848"
+          },
+        {
+            "name": "Ace",
+            "id": "1225921043559088138"
+          }
     ],
     "semanticColors": {
 		"APP_FRAME_BORDER": [ "#161a1d" ],
