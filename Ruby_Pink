@@ -241,7 +241,7 @@
     },
     "background": {
         "blur": 0.1,
-        "url": "https://raw.githubusercontent.com/Tachyon-os/Testing-Theme/main/wallpaper.svg"
+        "url": "https://github.com/Tachyon-os/Testing-Theme/blob/5592c775a2ce309fb99e35d53dd144983933fee4/ruby-pink-wallpaper.svg"
     },
     "plus": {
        "version": "0",
