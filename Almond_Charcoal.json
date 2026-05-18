@@ -264,7 +264,9 @@
             "StatusOnline":                         "#c8c8c8",
             "StatusIdle":                           "#b8b8b8",
             "StatusDND":                            "#d8d8d8",
-            "StatusOffline":                        "#585858"
+            "StatusOffline":                        "#585858",
+            "ic_send":                              "#111111",
+            "ic_send__overlay":                     "#ECECEC"
         }
     },
     "spec": 2
