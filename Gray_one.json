@@ -1,12 +1,8 @@
 {
     "name": "Gray_one",
     "description": "A Gray minimalist theme, a recolor inspired by Rosie Blue made by Mudrhiod",
-    "version": "2.1",
+    "version": "2.3",
    "authors": [
-        {
-            "name": "mudrhiod",
-            "id": "807170846497570848"
-          },
         {
             "name": "Ace",
             "id": "1225921043559088138"
@@ -52,8 +48,11 @@
         "INTERACTIVE_NORMAL": [ "#B9B9B9" ],
         "TEXT_LINK": [ "#C0C0C0" ],
         "TEXT_NORMAL": [ "#F0F0F0" ],
-        "TEXT_MUTED": [ "#D2D2D2" ],
+        "TEXT_MUTED": [ "#7a8290" ],
         "TEXT_PRIMARY": [ "#E0E0E0" ],
+        "TEXT_WARNING": [ "#b8a060" ],
+        "TEXT_DANGER": [ "#a06060" ],
+        "TEXT_POSITIVE": [ "#60a080" ],
         "THREAD_CHANNEL_SPINE": [ "#B4B4B4" ],
         "BG_BASE_PRIMARY": [ "#212529" ],
         "BG_BASE_SECONDARY": [ "#1c2024" ],
@@ -85,7 +84,15 @@
 		"MOBILE_SEGMENTED_CONTROL_BACKGROUND": [ "#1c2024" ],
 		"PANEL_BG": [ "#212529" ],
 		"BACKGROUND_SURFACE_HIGH": [ "#212529" ],
-		"TAB_BAR_BACKGROUND": [ "#1c2024" ]
+		"TAB_BAR_BACKGROUND": [ "#1c2024" ],
+        "MESSAGE_PREVIEW_NORMAL": [ "#7a8290" ],
+        "BACKGROUND_MESSAGE_AUTOMOD_HIGHLIGHTED": [ "#252d35" ],
+        "STATUS_POSITIVE_BACKGROUND": [ "#1c2820" ],
+        "STATUS_POSITIVE_TEXT": [ "#60a080" ],
+        "STATUS_WARNING_BACKGROUND": [ "#26221a" ],
+        "STATUS_WARNING_TEXT": [ "#b8a060" ],
+        "STATUS_DANGER_BACKGROUND": [ "#261c1c" ],
+        "STATUS_DANGER_TEXT": [ "#a06060" ]
     },
     "rawColors": {
         "PRIMARY_100": "#E3E3E3",
@@ -268,8 +275,22 @@
           "StatusOnline": "#C8C8C8",
           "StatusIdle": "#B8B8B8",
           "StatusDND": "#D2D2D2",
-          "StatusOffline": "#8A8A8A"
-            }
+          "StatusOffline": "#8A8A8A",
+          "ic_send": "#212529",
+          "ic_send__overlay": "#C0C0C0",
+          "ic_hamburger": "#C0C0C0",
+          "ic_hamburger__overlay": "#212529",
+          "ic_home_hamburger": "#C0C0C0",
+          "ic_home_hamburger__overlay": "#212529",
+          "ic_sidebar_left": "#C0C0C0",
+          "ic_sidebar_left__overlay": "#212529",
+          "ic_members": "#C0C0C0",
+          "ic_members__overlay": "#212529",
+          "ic_threads": "#C0C0C0",
+          "ic_threads__overlay": "#212529",
+          "ic_search": "#C0C0C0",
+          "ic_search__overlay": "#212529"
+        }
     },
     "spec": 2
     }
