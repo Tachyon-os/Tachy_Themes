@@ -1,7 +1,7 @@
 {
     "name": "Gray_one",
     "description": "A Gray minimalist theme, a recolor inspired by Rosie Blue made by Mudrhiod",
-    "version": "2.2",
+    "version": "2.3",
    "authors": [
         {
             "name": "Ace",
@@ -62,8 +62,8 @@
         "BG_MOD_SUBTLE": [ "#C0C0C029" ],
         "REDESIGN_ACTIVITY_CARD_BACKGROUND": [ "#262b2f" ],
 		"CONTROL_CRITICAL_PRIMARY_BACKGROUND_ACTIVE": [ "#333a40" ],
-		"CONTROL_PRIMARY_BACKGROUND_DEFAULT": [ "#4a5057" ],
-		"CONTROL_PRIMARY_BACKGROUND_ACTIVE": [ "#353c42" ],
+		"CONTROL_PRIMARY_BACKGROUND_DEFAULT": [ "#2a2f33" ],
+		"CONTROL_PRIMARY_BACKGROUND_ACTIVE": [ "#212529" ],
         "CONTROL_SECONDARY_BACKGROUND_DEFAULT": [ "#262b2f" ],
 		"CONTROL_SECONDARY_BACKGROUND_ACTIVE": [ "#191d20" ],
         "CONTROL_SECONDARY_BORDER_DEFAULT": [ "#2e3338" ],
@@ -276,8 +276,8 @@
           "StatusIdle": "#B8B8B8",
           "StatusDND": "#D2D2D2",
           "StatusOffline": "#8A8A8A",
-          "ic_send": "#212529",
-          "ic_send__overlay": "#C0C0C0",
+          "ic_send": "#C0C0C0",
+          "ic_send__overlay": "#212529",
           "ic_hamburger": "#C0C0C0",
           "ic_hamburger__overlay": "#212529",
           "ic_home_hamburger": "#C0C0C0",
