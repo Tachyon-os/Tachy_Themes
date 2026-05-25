@@ -1,7 +1,7 @@
 {
     "name": "Minty Sweet",
     "description": "A soft minty theme inspired by the Minty Sweet color palette.",
-    "version": "1.2",
+    "version": "1.3",
     "authors": [
         {
             "name": "Ace",
@@ -28,7 +28,7 @@
             "#B1E8D540"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#00000008"
+            "#1e3038"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#8FCACB20"
@@ -76,7 +76,7 @@
             "#8FCACB40"
         ],
         "CARD_PRIMARY_BG": [
-            "#1a2a2e"
+            "#152228"
         ],
         "CARD_PRIMARY_PRESSED_BG": [
             "#8FCACB20"
@@ -88,7 +88,7 @@
             "#8FCACB"
         ],
         "CHANNELS_DEFAULT": [
-            "#c8e8e8"
+            "#b0d8d8"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#1e3038"
@@ -97,40 +97,40 @@
             "#1a2a2e"
         ],
         "EMBED_BACKGROUND": [
-            "#152228"
+            "#0f1e22"
         ],
         "HEADER_PRIMARY": [
-            "#e0f4f4"
+            "#e8f8f8"
         ],
         "HEADER_SECONDARY": [
-            "#8FCACB"
+            "#b0d8d8"
         ],
         "INPUT_BACKGROUND": [
             "#1e3038"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#e0f4f4"
+            "#e8f8f8"
         ],
         "INTERACTIVE_HOVER": [
-            "#c8e8e8"
+            "#d8f0f0"
         ],
         "INTERACTIVE_MUTED": [
-            "#111c20"
+            "#3a5858"
         ],
         "INTERACTIVE_NORMAL": [
-            "#a8d4d4"
+            "#b0d8d8"
         ],
         "TEXT_LINK": [
             "#0d1618"
         ],
         "TEXT_NORMAL": [
-            "#e0f4f4"
+            "#e8f8f8"
         ],
         "TEXT_MUTED": [
-            "#8FCACB"
+            "#6FAAAB"
         ],
         "TEXT_PRIMARY": [
-            "#e0f4f4"
+            "#e8f8f8"
         ],
         "TEXT_WARNING": [
             "#7a8a6a"
@@ -163,7 +163,7 @@
             "#8FCACB10"
         ],
         "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-            "#1e2e32"
+            "#0f1e22"
         ],
         "CONTROL_CRITICAL_PRIMARY_BACKGROUND_ACTIVE": [
             "#7a8a9a"
@@ -190,10 +190,10 @@
             "#1a2a2e"
         ],
         "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-            "#8FCACB"
+            "#6FAAAB"
         ],
         "REDESIGN_CHANNEL_NAME_TEXT": [
-            "#c8e8e8"
+            "#e8f8f8"
         ],
         "REDESIGN_CHAT_INPUT_BACKGROUND": [
             "#1e3038"
@@ -277,7 +277,7 @@
             "#1e2e32"
         ],
         "CARD_BACKGROUND_DEFAULT": [
-            "#1e2e32"
+            "#0f1e22"
         ],
         "BACKGROUND_TERTIARY": [
             "#152228"
@@ -293,6 +293,12 @@
         ],
         "CHAT_MENTIONS_BACKGROUND": [
             "#8FCACB15"
+        ],
+        "EMBED_TITLE": [
+            "#e0f4f4"
+        ],
+        "MESSAGE_PREVIEW_NORMAL": [
+            "#c0e0e0"
         ]
     },
     "rawColors": {
