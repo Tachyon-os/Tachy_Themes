@@ -1,7 +1,7 @@
 {
     "name": "Void",
     "description": "Pure black and white. Cold. Minimal. No noise.",
-    "version": "1.1",
+    "version": "1.2",
     "authors": [
         {
             "name": "Ace",
@@ -19,7 +19,7 @@
             "#ffffff20"
         ],
         "BACKGROUND_ACCENT": [
-            "#ffffff"
+            "#444444"
         ],
         "BACKGROUND_MENTIONED": [
             "#ffffff10"
@@ -109,10 +109,10 @@
             "#1a1a1a"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#ffffff"
+            "#e8e8e8"
         ],
         "INTERACTIVE_HOVER": [
-            "#dddddd"
+            "#bbbbbb"
         ],
         "INTERACTIVE_MUTED": [
             "#444444"
@@ -169,10 +169,10 @@
             "#2a2a2a"
         ],
         "CONTROL_PRIMARY_BACKGROUND_DEFAULT": [
-            "#2a2a2a"
+            "#333333"
         ],
         "CONTROL_PRIMARY_BACKGROUND_ACTIVE": [
-            "#333333"
+            "#555555"
         ],
         "CONTROL_SECONDARY_BACKGROUND_DEFAULT": [
             "#141414"
@@ -223,7 +223,7 @@
             "#080808"
         ],
         "MOBILE_CHANNEL_ITEM_BACKGROUND_SELECTED": [
-            "#1a1a1a"
+            "#2a2a2a"
         ],
         "MOBILE_SEGMENTED_CONTROL_BACKGROUND": [
             "#080808"
@@ -330,9 +330,9 @@
         "BRAND_360": "#b8b8b8",
         "BRAND_400": "#aaaaaa",
         "BRAND_430": "#999999",
-        "BRAND_500": "#ffffff",
-        "BRAND_530": "#cccccc",
-        "BRAND_560": "#aaaaaa",
+        "BRAND_500": "#888888",
+        "BRAND_530": "#777777",
+        "BRAND_560": "#666666",
         "BRAND_600": "#888888",
         "BRAND_630": "#666666",
         "BRAND_660": "#444444",
@@ -462,8 +462,8 @@
         "mentionLineColor": "#ffffff",
         "customOverlays": true,
         "icons": {
-            "ic_send": "#ffffff",
-            "ic_send__overlay": "#0d0d0d"
+            "ic_send": "#e8e8e8",
+            "ic_send__overlay": "#1a1a1a"
         }
     },
     "spec": 2
