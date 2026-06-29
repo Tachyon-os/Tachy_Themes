@@ -1,7 +1,7 @@
 {
     "name": "Lavender Dusk",
-    "description": "Lavender Dusk soft purple on deep dark. Calm. Ethereal.",
-    "version": "1.2",
+    "description": "Lavender Dusk \u2014 soft purple on deep dark. Calm. Ethereal.",
+    "version": "1.3",
     "authors": [
         {
             "name": "Ace"
@@ -164,12 +164,8 @@
         "CONTROL_PRIMARY_BACKGROUND_ACTIVE": [
             "#3a2a5a"
         ],
-        "CONTROL_SECONDARY_BACKGROUND_DEFAULT": [
-            "#1e1e1e"
-        ],
-        "CONTROL_SECONDARY_BACKGROUND_ACTIVE": [
-            "#111111"
-        ],
+        "CONTROL_SECONDARY_BACKGROUND_DEFAULT": [ "#3a2f5a" ],
+        "CONTROL_SECONDARY_BACKGROUND_ACTIVE": [ "#2a2245" ],
         "CONTROL_SECONDARY_BORDER_DEFAULT": [
             "#CABDFE30"
         ],
