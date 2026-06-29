@@ -1,16 +1,11 @@
 {
     "name": "Ruby Pink",
-    "description": "Ruby Pink a recolor inspired by Rosie Blue made by Mudrhiod.",
-    "version": "1.0",
+    "description": "Ruby Pink & Covert Slander — warm pink accents on deep dark gray.",
+    "version": "1.1",
     "authors": [
-        {
-            "name": "mudrhiod",
-            "id": "807170846497570848"
-          },
-        {
-            "name": "Ace",
-            "id": "1225921043559088138"
-          }
+		{
+			"name": "Tachyon-os"
+      	}
     ],
     "semanticColors": {
 		"APP_FRAME_BORDER": [ "#0e0e0e" ],
@@ -65,8 +60,8 @@
 		"CONTROL_CRITICAL_PRIMARY_BACKGROUND_ACTIVE": [ "#c06060" ],
 		"CONTROL_PRIMARY_BACKGROUND_DEFAULT": [ "#e08888" ],
 		"CONTROL_PRIMARY_BACKGROUND_ACTIVE": [ "#c87878" ],
-        "CONTROL_SECONDARY_BACKGROUND_DEFAULT": [ "#1e1e1e" ],
-		"CONTROL_SECONDARY_BACKGROUND_ACTIVE": [ "#111111" ],
+        "CONTROL_SECONDARY_BACKGROUND_DEFAULT": [ "#3a2222" ],
+		"CONTROL_SECONDARY_BACKGROUND_ACTIVE": [ "#2a1818" ],
         "CONTROL_SECONDARY_BORDER_DEFAULT": [ "#faa0a030" ],
 		"CONTROL_SECONDARY_BORDER_ACTIVE": [ "#161616" ],
         "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [ "#141414" ],
@@ -246,7 +241,7 @@
     },
     "background": {
         "blur": 0.1,
-        "url": "https://raw.githubusercontent.com/Tachyon-os/Testing-Theme/refs/heads/main/ruby-pink-wallpaper.png"
+        "url": "https://raw.githubusercontent.com/Tachyon-os/Testing-Theme/main/wallpaper.svg"
     },
     "plus": {
        "version": "0",
@@ -268,7 +263,9 @@
           "StatusOnline": "#f0b8b8",
           "StatusIdle": "#e8a8a8",
           "StatusDND": "#faa0a0",
-          "StatusOffline": "#886868"
+          "StatusOffline": "#886868",
+            "ic_send": "#141414",
+            "ic_send__overlay": "#faa0a0"
             }
     },
     "spec": 2
