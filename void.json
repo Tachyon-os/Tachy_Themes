@@ -1,7 +1,7 @@
 {
     "name": "Void",
     "description": "Pure black and white. Cold. Minimal. No noise.",
-    "version": "1.6",
+    "version": "1.7",
     "authors": [
         {
             "name": "Ace",
@@ -31,16 +31,16 @@
             "#EDF2F406"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#1a1a1a"
+            "#EDF2F415"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#000000"
+            "#EDF2F420"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#EDF2F406"
+            "#EDF2F40a"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#141414"
+            "#EDF2F418"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#0d0d0d"
@@ -73,7 +73,7 @@
             "#080808"
         ],
         "BORDER_FAINT": [
-            "#EDF2F420"
+            "#EDF2F430"
         ],
         "CARD_PRIMARY_BG": [
             "#0d0d0d"
@@ -154,10 +154,10 @@
             "#000000"
         ],
         "BG_MOD_FAINT": [
-            "#1a1a1a"
+            "#EDF2F412"
         ],
         "BG_MOD_STRONG": [
-            "#0a0a0a"
+            "#EDF2F420"
         ],
         "BG_MOD_SUBTLE": [
             "#EDF2F408"
@@ -223,7 +223,7 @@
             "#080808"
         ],
         "MOBILE_CHANNEL_ITEM_BACKGROUND_SELECTED": [
-            "#EDF2F410"
+            "#EDF2F415"
         ],
         "MOBILE_SEGMENTED_CONTROL_BACKGROUND": [
             "#080808"
