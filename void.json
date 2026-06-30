@@ -1,7 +1,7 @@
 {
     "name": "Void",
     "description": "Pure black and white. Cold. Minimal. No noise.",
-    "version": "1.5",
+    "version": "1.6",
     "authors": [
         {
             "name": "Ace",
@@ -10,7 +10,7 @@
     ],
     "semanticColors": {
         "APP_FRAME_BORDER": [
-            "#000000"
+            "#EDF2F415"
         ],
         "ACTION_SHEET_GRADIENT_BG": [
             "#0a0a0a"
@@ -22,7 +22,7 @@
             "#444444"
         ],
         "BACKGROUND_MENTIONED": [
-            "#EDF2F410"
+            "#EDF2F40a"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
             "#EDF2F418"
@@ -73,7 +73,7 @@
             "#080808"
         ],
         "BORDER_FAINT": [
-            "#1e1e1e"
+            "#EDF2F420"
         ],
         "CARD_PRIMARY_BG": [
             "#0d0d0d"
@@ -142,7 +142,7 @@
             "#aaaaaa"
         ],
         "THREAD_CHANNEL_SPINE": [
-            "#333333"
+            "#EDF2F4"
         ],
         "BG_BASE_PRIMARY": [
             "#0d0d0d"
@@ -174,13 +174,17 @@
         "CONTROL_PRIMARY_BACKGROUND_ACTIVE": [
             "#555555"
         ],
-        "CONTROL_SECONDARY_BACKGROUND_DEFAULT": [ "#2a2a2a" ],
-        "CONTROL_SECONDARY_BACKGROUND_ACTIVE": [ "#383838" ],
-        "CONTROL_SECONDARY_BORDER_DEFAULT": [
+        "CONTROL_SECONDARY_BACKGROUND_DEFAULT": [
             "#2a2a2a"
         ],
+        "CONTROL_SECONDARY_BACKGROUND_ACTIVE": [
+            "#383838"
+        ],
+        "CONTROL_SECONDARY_BORDER_DEFAULT": [
+            "#EDF2F425"
+        ],
         "CONTROL_SECONDARY_BORDER_ACTIVE": [
-            "#1a1a1a"
+            "#EDF2F440"
         ],
         "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
             "#0d0d0d"
@@ -204,13 +208,13 @@
             "#0d0d0d"
         ],
         "STANDALONE_CHANNEL_HEADER_BORDER": [
-            "#0d0d0d"
+            "#EDF2F410"
         ],
         "INPUT_BACKGROUND_DEFAULT": [
             "#1a1a1a"
         ],
         "INPUT_BORDER_ACTIVE": [
-            "#555555"
+            "#EDF2F4"
         ],
         "MOBILE_ACTIONSHEET_BACKGROUND": [
             "#080808"
@@ -219,7 +223,7 @@
             "#080808"
         ],
         "MOBILE_CHANNEL_ITEM_BACKGROUND_SELECTED": [
-            "#2a2a2a"
+            "#EDF2F410"
         ],
         "MOBILE_SEGMENTED_CONTROL_BACKGROUND": [
             "#080808"
@@ -240,13 +244,13 @@
             "#000000cc"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#2a2a2a"
+            "#EDF2F430"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#2a2a2a"
+            "#EDF2F440"
         ],
         "SCROLLBAR_AUTO_TRACK": [
             "transparent"
