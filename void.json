@@ -1,7 +1,7 @@
 {
     "name": "Void",
     "description": "Pure black and white. Cold. Minimal. No noise.",
-    "version": "1.7",
+    "version": "1.8",
     "authors": [
         {
             "name": "Ace",
@@ -31,31 +31,31 @@
             "#EDF2F406"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#EDF2F415"
+            "#EDF2F410"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#EDF2F420"
+            "#EDF2F415"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#EDF2F40a"
+            "#EDF2F408"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#EDF2F418"
+            "#EDF2F420"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#0d0d0d"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#080808"
+            "#111111"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#141414"
         ],
         "BACKGROUND_PRIMARY": [
-            "#0d0d0d"
+            "#0a0a0a"
         ],
         "BACKGROUND_SECONDARY": [
-            "#080808"
+            "#111111"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#050505"
@@ -73,7 +73,7 @@
             "#080808"
         ],
         "BORDER_FAINT": [
-            "#EDF2F430"
+            "#EDF2F425"
         ],
         "CARD_PRIMARY_BG": [
             "#0d0d0d"
@@ -94,7 +94,7 @@
             "#222222"
         ],
         "CHAT_BACKGROUND": [
-            "#0d0d0d"
+            "#0a0a0a"
         ],
         "EMBED_BACKGROUND": [
             "#080808"
@@ -148,13 +148,13 @@
             "#0d0d0d"
         ],
         "BG_BASE_SECONDARY": [
-            "#080808"
+            "#111111"
         ],
         "BG_BASE_TERTIARY": [
             "#000000"
         ],
         "BG_MOD_FAINT": [
-            "#EDF2F412"
+            "#EDF2F410"
         ],
         "BG_MOD_STRONG": [
             "#EDF2F420"
