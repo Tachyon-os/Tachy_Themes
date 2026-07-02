@@ -1,7 +1,7 @@
 {
     "name": "Gray_one",
     "description": "A Gray minimalist theme, a recolor inspired by Rosie Blue made by Mudrhiod",
-    "version": "3.0",
+    "version": "3.1",
     "authors": [
         {
             "name": "mudrhiod",
@@ -277,7 +277,7 @@
         "PRIMARY_730": "#1c2024",
         "PRIMARY_800": "#131619",
         "PLUM_10": "#848484",
-        "PLUM_15": "#C0C0C0",
+        "PLUM_15": "#F5C542",
         "PLUM_16": "#191d20",
         "PLUM_17": "#1c2024",
         "PLUM_18": "#212529",
@@ -294,10 +294,10 @@
         "BRAND_360": "#C0C0C0",
         "BRAND_400": "#ABABAB",
         "BRAND_430": "#A8A8A8",
-        "BRAND_500": "#C0C0C0",
-        "BRAND_530": "#9A9A9A",
-        "BRAND_560": "#6F6F6F",
-        "BRAND_600": "#6A6A6A",
+        "BRAND_500": "#F5C542",
+        "BRAND_530": "#e0b030",
+        "BRAND_560": "#c89c20",
+        "BRAND_600": "#b08818",
         "BRAND_630": "#646464",
         "BRAND_660": "#606060",
         "BRAND_700": "#5C5C5C",
@@ -427,7 +427,7 @@
         "customOverlays": true,
         "icons": {
             "ic_send": "#F5C542",
-            "ic_send__overlay": "#212529"
+            "ic_send__overlay": "#1c2024"
         }
     },
     "spec": 2
