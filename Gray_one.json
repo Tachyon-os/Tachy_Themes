@@ -1,7 +1,7 @@
 {
     "name": "Gray_one",
     "description": "A Gray minimalist theme, a recolor inspired by Rosie Blue made by Mudrhiod",
-    "version": "2.9",
+    "version": "3.0",
     "authors": [
         {
             "name": "mudrhiod",
@@ -22,14 +22,11 @@
         "ANDROID_RIPPLE": [
             "#2e3338"
         ],
-        "BACKGROUND_ACCENT": [
-            "#C4C4C4"
+        "BACKGROUND_ACCENT": [ "#F5C542"
         ],
-        "BACKGROUND_MENTIONED": [
-            "#C0C0C020"
+        "BACKGROUND_MENTIONED": [ "#F5C54220"
         ],
-        "BACKGROUND_MENTIONED_HOVER": [
-            "#C0C0C040"
+        "BACKGROUND_MENTIONED_HOVER": [ "#F5C54235"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
             "#ffffff05"
@@ -172,14 +169,16 @@
         "CONTROL_CRITICAL_PRIMARY_BACKGROUND_ACTIVE": [
             "#333a40"
         ],
-        "CONTROL_PRIMARY_BACKGROUND_DEFAULT": [
-            "#191d20"
+        "CONTROL_PRIMARY_BACKGROUND_DEFAULT": [ "#3a3f44"
         ],
-        "CONTROL_PRIMARY_BACKGROUND_ACTIVE": [
-            "#161a1d"
+        "CONTROL_PRIMARY_BACKGROUND_ACTIVE": [ "#484e54"
         ],
-        "CONTROL_SECONDARY_BACKGROUND_DEFAULT": [ "#3a4046" ],
-        "CONTROL_SECONDARY_BACKGROUND_ACTIVE": [ "#2c3236" ],
+        "CONTROL_SECONDARY_BACKGROUND_DEFAULT": [
+            "#3a4046"
+        ],
+        "CONTROL_SECONDARY_BACKGROUND_ACTIVE": [
+            "#2c3236"
+        ],
         "CONTROL_SECONDARY_BORDER_DEFAULT": [
             "#2e3338"
         ],
@@ -198,8 +197,7 @@
         "REDESIGN_CHAT_INPUT_BACKGROUND": [
             "#2a2f33"
         ],
-        "MENTION_FOREGROUND": [
-            "#A8A8A8"
+        "MENTION_FOREGROUND": [ "#F5C542"
         ],
         "BACKGROUND_MOD_MUTED": [
             "#212529"
@@ -213,8 +211,7 @@
         "INPUT_BACKGROUND_DEFAULT": [
             "#1a1e21"
         ],
-        "INPUT_BORDER_ACTIVE": [
-            "#C4C4C4"
+        "INPUT_BORDER_ACTIVE": [ "#F5C542"
         ],
         "MOBILE_ACTIONSHEET_BACKGROUND": [
             "#1c2024"
@@ -426,11 +423,11 @@
     "plus": {
         "version": "0",
         "iconpack": "solarduotone",
-        "mentionLineColor": "#C0C0C0",
+        "mentionLineColor": "#F5C542",
         "customOverlays": true,
         "icons": {
-            "ic_send": "#1c2024",
-            "ic_send__overlay": "#C0C0C0"
+            "ic_send": "#F5C542",
+            "ic_send__overlay": "#212529"
         }
     },
     "spec": 2
