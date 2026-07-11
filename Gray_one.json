@@ -1,7 +1,7 @@
 {
     "name": "Gray_one",
     "description": "A Gray minimalist theme, a recolor inspired by Rosie Blue made by Mudrhiod",
-    "version": "3.5",
+    "version": "3.6",
     "authors": [
         {
             "name": "mudrhiod",
@@ -62,7 +62,7 @@
             "#1c2024"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#191d20"
+            "#2a2d31"
         ],
         "BG_SURFACE_RAISED": [
             "#161a1d"
@@ -95,7 +95,7 @@
             "#B5B5B5"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#2a2f33"
+            "#2a2d31"
         ],
         "CHAT_BACKGROUND": [
             "#212529"
@@ -110,7 +110,7 @@
             "#D3D3D3"
         ],
         "INPUT_BACKGROUND": [
-            "#1a1e21"
+            "#2a2d31"
         ],
         "INTERACTIVE_ACTIVE": [
             "#D3DBD1"
@@ -200,7 +200,7 @@
             "#F0F0F0"
         ],
         "REDESIGN_CHAT_INPUT_BACKGROUND": [
-            "#2a2f33"
+            "#2a2d31"
         ],
         "MENTION_FOREGROUND": [
             "#F5C542"
@@ -215,7 +215,7 @@
             "#212529"
         ],
         "INPUT_BACKGROUND_DEFAULT": [
-            "#1a1e21"
+            "#2a2d31"
         ],
         "INPUT_BORDER_ACTIVE": [
             "#F5C542"
@@ -312,6 +312,12 @@
         ],
         "GUILD_DISCOVERY_CARD_BACKGROUND": [
             "#1c2024"
+        ],
+        "DEPRECATED_QUICKSWITCHER_INPUT_BACKGROUND": [
+            "#2a2d31"
+        ],
+        "DEPRECATED_TEXT_INPUT_BG": [
+            "#2a2d31"
         ]
     },
     "rawColors": {
@@ -470,9 +476,9 @@
         "WHITE_500": "#F0F0F0",
         "BLACK_500": "#F0F0F0",
         "WHITE_630": "#6B6B6B",
-        "PLUM_23": "#2a2f33",
-        "PLUM_22": "#262b2f",
-        "PLUM_21": "#212529",
+        "PLUM_23": "#2a2d31",
+        "PLUM_22": "#2a2d31",
+        "PLUM_21": "#2a2d31",
         "PLUM_19": "#191d20"
     },
     "background": {
