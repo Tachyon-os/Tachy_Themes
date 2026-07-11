@@ -1,7 +1,7 @@
 {
     "name": "Gray_one",
     "description": "A Gray minimalist theme, a recolor inspired by Rosie Blue made by Mudrhiod",
-    "version": "3.3",
+    "version": "3.4",
     "authors": [
         {
             "name": "mudrhiod",
@@ -279,6 +279,18 @@
         ],
         "MENTIONS_BADGE_BACKGROUND": [
             "#F5C542"
+        ],
+        "KEYBOARD": [
+            "#1c2024"
+        ],
+        "CARD_BACKGROUND_DEFAULT": [
+            "#1c2024"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#212529"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#262b2f"
         ]
     },
     "rawColors": {
