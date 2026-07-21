@@ -1,7 +1,7 @@
 {
     "name": "Cinder & Flame",
     "description": "Deep teal-black Cinder meets warm coral Flame. Dark and warm.",
-    "version": "1.0",
+    "version": "1.1",
     "authors": [
         {"name": "Ace", "id": "1225921043559088138"}
     ],
@@ -219,7 +219,7 @@
     },
     "plus": {
         "version": "0",
-        "iconpack": "MaterialTwoTone",
+        "iconpack": "solarduotone",
         "mentionLineColor": "#FF7F50",
         "customOverlays": true,
         "icons": {
