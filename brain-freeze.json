@@ -1,7 +1,7 @@
 {
     "name": "Brain Freeze",
     "description": "Abyssal dark meets electric periwinkle blue. Cold and electric.",
-    "version": "1.3",
+    "version": "1.1",
     "authors": [
         {
             "name": "Ace",
@@ -102,12 +102,12 @@
             "#d5dde0"
         ],
         "CHANNEL_ICON": [
-            "#60a0f0",
-            "#4a6070"
+            "#7aaae0",
+            "#4a6888"
         ],
         "CHANNELS_DEFAULT": [
-            "#5898ee",
-            "#4a6070"
+            "#90c0f0",
+            "#3a5878"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#0e1828",
@@ -127,11 +127,11 @@
         ],
         "HEADER_PRIMARY": [
             "#c0d8ff",
-            "#1a2830"
+            "#1a2840"
         ],
         "HEADER_SECONDARY": [
-            "#a0c8f8",
-            "#4a6070"
+            "#a0c0f0",
+            "#2a3850"
         ],
         "INPUT_BACKGROUND": [
             "#0a1220",
@@ -151,19 +151,19 @@
         ],
         "INTERACTIVE_ACTIVE": [
             "#70afff",
-            "#5898ee"
+            "#1a3858"
         ],
         "INTERACTIVE_HOVER": [
-            "#5898ee",
-            "#3878c8"
+            "#a0c8f8",
+            "#2a4868"
         ],
         "INTERACTIVE_MUTED": [
             "#101828",
             "#c8c0b8"
         ],
         "INTERACTIVE_NORMAL": [
-            "#5090e0",
-            "#5a3020"
+            "#7aaae0",
+            "#4a6888"
         ],
         "MENTION_BACKGROUND": [
             "#08121c",
@@ -171,7 +171,7 @@
         ],
         "MENTION_FOREGROUND": [
             "#70afff",
-            "#5898ee"
+            "#1a5898"
         ],
         "TEXT_DANGER": [
             "#e07070",
@@ -179,19 +179,19 @@
         ],
         "TEXT_LINK": [
             "#70afff",
-            "#5898ee"
+            "#1a5898"
         ],
         "TEXT_NORMAL": [
-            "#c0d8ff",
-            "#1a2830"
+            "#d0e8ff",
+            "#1a2840"
         ],
         "TEXT_MUTED": [
-            "#4a7098",
-            "#4a6070"
+            "#6a90c0",
+            "#4a6888"
         ],
         "TEXT_PRIMARY": [
-            "#c0d8ff",
-            "#1a2830"
+            "#d0e8ff",
+            "#1a2840"
         ],
         "TEXT_WARNING": [
             "#e09858",
@@ -334,12 +334,12 @@
             "#e8dfd5"
         ],
         "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-            "#4a7098",
-            "#4a6070"
+            "#5a7898",
+            "#5a7898"
         ],
         "REDESIGN_CHANNEL_NAME_TEXT": [
-            "#5898ee",
-            "#4a6070"
+            "#90c0f0",
+            "#3a5878"
         ],
         "REDESIGN_CHAT_INPUT_BACKGROUND": [
             "#0e1828",
@@ -379,11 +379,11 @@
         ],
         "MOBILE_TEXT_HEADING_PRIMARY": [
             "#c0d8ff",
-            "#1a2830"
+            "#1a2840"
         ],
         "NAVIGATOR_HEADER_TINT": [
             "#c0d8ff",
-            "#1a2830"
+            "#1a2840"
         ],
         "LOGO_PRIMARY": [
             "#70afff",
@@ -501,9 +501,9 @@
         ]
     },
     "rawColors": {
-        "PRIMARY_100": "#c0d8ff",
-        "PRIMARY_200": "#f0c0a8",
-        "PRIMARY_300": "#e0b098",
+        "PRIMARY_100": "#d0e8ff",
+        "PRIMARY_200": "#b0ccf0",
+        "PRIMARY_300": "#90b8e8",
         "PRIMARY_330": "#d0a088",
         "PRIMARY_360": "#c09078",
         "PRIMARY_400": "#a07060",
@@ -518,8 +518,8 @@
         "PRIMARY_730": "#08121c",
         "PRIMARY_800": "#0d1518",
         "PLUM_0": "#70afff",
-        "PLUM_3": "#c0d8ff",
-        "PLUM_4": "#a0c8f8",
+        "PLUM_3": "#d0e8ff",
+        "PLUM_4": "#a0c0f0",
         "PLUM_6": "#70afff",
         "PLUM_10": "#4a7098",
         "PLUM_11": "#101828",
