@@ -1,7 +1,7 @@
 {
     "name": "Brain Freeze",
     "description": "Abyssal dark meets electric Brain-Freeze cyan. Cold and electric.",
-    "version": "1.1",
+    "version": "1.2",
     "authors": [
         {
             "name": "Ace",
@@ -19,11 +19,11 @@
         ],
         "BACKGROUND_MENTIONED": [
             "#00F0FF17",
-            "#00F0FF17"
+            "#00F0FF10"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
             "#00F0FF30",
-            "#00F0FF30"
+            "#00F0FF20"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
             "#ffffff05",
@@ -55,7 +55,7 @@
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#0e2028",
-            "#d5dde0"
+            "#dde5e8"
         ],
         "BACKGROUND_PRIMARY": [
             "#0a1a22",
@@ -66,8 +66,8 @@
             "#dde5e8"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#111b1e",
-            "#e8dfd5"
+            "#0e1a24",
+            "#dde5e8"
         ],
         "BACKGROUND_TERTIARY": [
             "#08161e",
@@ -91,7 +91,7 @@
         ],
         "CARD_PRIMARY_PRESSED_BG": [
             "#0e2028",
-            "#ede5dc"
+            "#d5dde0"
         ],
         "CARD_SECONDARY_BG": [
             "#08161e",
@@ -227,7 +227,7 @@
         ],
         "BG_MOD_SUBTLE": [
             "#00F0FF10",
-            "#00F0FF10"
+            "#00000008"
         ],
         "BG_SURFACE_RAISED": [
             "#08161e",
@@ -239,7 +239,7 @@
         ],
         "BG_BACKDROP": [
             "#060e14aa",
-            "#2a1808aa"
+            "#1a2830aa"
         ],
         "BG_BRAND": [
             "#00F0FF",
@@ -303,7 +303,7 @@
         ],
         "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
             "#00F0FF",
-            "#00c8d4"
+            "#00b8c8"
         ],
         "REDESIGN_BUTTON_PRIMARY_ALT_BACKGROUND": [
             "#00c8d4",
@@ -314,7 +314,7 @@
             "#a03818"
         ],
         "REDESIGN_BUTTON_PRIMARY_TEXT": [
-            "#0a181e",
+            "#0a1a22",
             "#ffffff"
         ],
         "REDESIGN_BUTTON_DESTRUCTIVE_BACKGROUND": [
@@ -371,7 +371,7 @@
         ],
         "MOBILE_CHANNEL_ITEM_BACKGROUND_SELECTED": [
             "#00F0FF20",
-            "#00F0FF20"
+            "#00F0FF15"
         ],
         "MOBILE_SEGMENTED_CONTROL_BACKGROUND": [
             "#08161e",
@@ -395,7 +395,7 @@
         ],
         "CONTROL_PRIMARY_BACKGROUND_DEFAULT": [
             "#00F0FF",
-            "#00c8d4"
+            "#00b8c8"
         ],
         "CONTROL_PRIMARY_BACKGROUND_ACTIVE": [
             "#00c8d4",
@@ -431,7 +431,7 @@
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
             "#183038",
-            "#d0c8c0"
+            "#d5dde0"
         ],
         "SPOILER_REVEALED_BACKGROUND": [
             "#08161e",
@@ -454,19 +454,22 @@
             "#00c8d4"
         ],
         "STATUS_POSITIVE_BACKGROUND": [
-            "#142820"
+            "#0e2018",
+            "#c8e8d8"
         ],
         "STATUS_POSITIVE_TEXT": [
             "#3ba55d"
         ],
         "STATUS_WARNING_BACKGROUND": [
-            "#2a2010"
+            "#201808",
+            "#e8d8b8"
         ],
         "STATUS_WARNING_TEXT": [
             "#faa81a"
         ],
         "STATUS_DANGER_BACKGROUND": [
-            "#2a1510"
+            "#200808",
+            "#e8c8c8"
         ],
         "BUTTON_OUTLINE_DANGER_BORDER": [
             "#00F0FF",
@@ -494,7 +497,7 @@
         ],
         "CHAT_MENTIONS_BACKGROUND": [
             "#00F0FF18",
-            "#00F0FF18"
+            "#00F0FF12"
         ]
     },
     "rawColors": {
