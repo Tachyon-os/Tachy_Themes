@@ -1,7 +1,7 @@
 {
     "name": "Brain Freeze",
     "description": "Abyssal dark meets electric periwinkle blue. Cold and electric.",
-    "version": "1.2",
+    "version": "1.3",
     "authors": [
         {
             "name": "Ace",
@@ -402,20 +402,20 @@
             "#3878c8"
         ],
         "CONTROL_SECONDARY_BACKGROUND_DEFAULT": [
-            "#0e1828",
-            "#d5dde0"
+            "#1c2a40",
+            "#c0d0e0"
         ],
         "CONTROL_SECONDARY_BACKGROUND_ACTIVE": [
-            "#08121c",
-            "#dde5e8"
+            "#243850",
+            "#b0c4d8"
         ],
         "CONTROL_SECONDARY_BORDER_DEFAULT": [
-            "#70afff30",
-            "#70afff30"
+            "#70afff40",
+            "#70afff40"
         ],
         "CONTROL_SECONDARY_BORDER_ACTIVE": [
-            "#101828",
-            "#d8d0c8"
+            "#70afff80",
+            "#70afff80"
         ],
         "DIVIDER_STRONG": [
             "#08121c",
@@ -609,8 +609,8 @@
             "StatusIdle": "#faa81a",
             "StatusDND": "#ed4245",
             "StatusOffline": "#101828",
-            "ic_send": "#0a181e",
-            "ic_send__overlay": "#70afff",
+            "ic_send": "#70afff",
+            "ic_send__overlay": "#0a1428",
             "friends_toast_icon": "#70afff",
             "toast_copy_link": "#70afff",
             "toast_copy_message": "#70afff",
