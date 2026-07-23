@@ -1,7 +1,7 @@
 {
     "name": "Nyctophobia",
     "description": "Deep midnight navy meets indigo and orbital blue. Dark. Ethereal.",
-    "version": "1.1",
+    "version": "1.2",
     "authors": [
         {"name": "Ace", "id": "1225921043559088138"}
     ],
@@ -215,7 +215,7 @@
     },
     "plus": {
         "version": "0",
-        "iconpack": "solarduotone",
+        "iconpack": "rosiecord-plumpy",
         "mentionLineColor": "#d8b880",
         "customOverlays": true,
         "icons": {
