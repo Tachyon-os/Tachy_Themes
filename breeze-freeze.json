@@ -1,7 +1,7 @@
 {
     "name": "Brain Freeze",
     "description": "Abyssal dark meets electric periwinkle blue. Cold and electric.",
-    "version": "1.7",
+    "version": "1.8",
     "authors": [
         {
             "name": "Ace",
@@ -47,23 +47,23 @@
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#0a1428",
-            "#e8eef5"
+            "#f2f5fa"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
             "#08101e",
-            "#dce4ee"
+            "#e8edf5"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#0e1a2e",
-            "#d0dae6"
+            "#dce4f0"
         ],
         "BACKGROUND_PRIMARY": [
             "#0a1428",
-            "#e8eef5"
+            "#f2f5fa"
         ],
         "BACKGROUND_SECONDARY": [
             "#08101e",
-            "#dce4ee"
+            "#e8edf5"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#0a1222",
@@ -71,7 +71,7 @@
         ],
         "BACKGROUND_TERTIARY": [
             "#08101e",
-            "#dce4ee"
+            "#e8edf5"
         ],
         "BADGE_BRAND_BG": [
             "#70afff",
@@ -87,7 +87,7 @@
         ],
         "CARD_PRIMARY_BG": [
             "#0a1428",
-            "#e8eef5"
+            "#f2f5fa"
         ],
         "CARD_PRIMARY_PRESSED_BG": [
             "#0e1828",
@@ -99,7 +99,7 @@
         ],
         "CARD_BACKGROUND_DEFAULT": [
             "#0e1a2e",
-            "#d0dae6"
+            "#dce4f0"
         ],
         "CHANNEL_ICON": [
             "#5aaaf0",
@@ -111,15 +111,15 @@
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#0e1a2e",
-            "#d0dae6"
+            "#dce4f0"
         ],
         "CHAT_BACKGROUND": [
             "#0a1428",
-            "#e8eef5"
+            "#f2f5fa"
         ],
         "EMBED_BACKGROUND": [
             "#08101e",
-            "#dce4ee"
+            "#e8edf5"
         ],
         "FORUM_POST_TAG_BACKGROUND": [
             "#101828",
@@ -135,11 +135,11 @@
         ],
         "INPUT_BACKGROUND": [
             "#0a1020",
-            "#d0dae6"
+            "#dce4f0"
         ],
         "INPUT_BACKGROUND_DEFAULT": [
             "#0a1020",
-            "#d0dae6"
+            "#dce4f0"
         ],
         "INPUT_BORDER_ACTIVE": [
             "#70afff",
@@ -167,7 +167,7 @@
         ],
         "MENTION_BACKGROUND": [
             "#08101e",
-            "#dce4ee"
+            "#e8edf5"
         ],
         "MENTION_FOREGROUND": [
             "#86efac",
@@ -207,11 +207,11 @@
         ],
         "BG_BASE_PRIMARY": [
             "#0a1428",
-            "#e8eef5"
+            "#f2f5fa"
         ],
         "BG_BASE_SECONDARY": [
             "#08101e",
-            "#dce4ee"
+            "#e8edf5"
         ],
         "BG_BASE_TERTIARY": [
             "#0a1020",
@@ -219,11 +219,11 @@
         ],
         "BG_MOD_FAINT": [
             "#0e1a2e",
-            "#d0dae6"
+            "#dce4f0"
         ],
         "BG_MOD_STRONG": [
             "#08101e",
-            "#dce4ee"
+            "#e8edf5"
         ],
         "BG_MOD_SUBTLE": [
             "#70afff10",
@@ -235,7 +235,7 @@
         ],
         "BG_SURFACE_OVERLAY": [
             "#0a1428",
-            "#e8eef5"
+            "#f2f5fa"
         ],
         "BG_BACKDROP": [
             "#060818aa",
@@ -247,23 +247,23 @@
         ],
         "PANEL_BG": [
             "#0a1428",
-            "#e8eef5"
+            "#f2f5fa"
         ],
         "BACKGROUND_SURFACE_HIGH": [
             "#0a1428",
-            "#e8eef5"
+            "#f2f5fa"
         ],
         "TAB_BAR_BACKGROUND": [
             "#08101e",
-            "#dce4ee"
+            "#e8edf5"
         ],
         "TYPING_INDICATOR_BG": [
             "#08101e",
-            "#dce4ee"
+            "#e8edf5"
         ],
         "ALERT_BG": [
             "#0e1a2e",
-            "#d0dae6"
+            "#dce4f0"
         ],
         "CONTEXT_MENU_BACKDROP_BACKGROUND": [
             "#060818aa",
@@ -271,11 +271,11 @@
         ],
         "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
             "#0e1a2e",
-            "#d0dae6"
+            "#dce4f0"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
             "#0e1a2e",
-            "#d0dae6"
+            "#dce4f0"
         ],
         "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [
             "#101828",
@@ -287,7 +287,7 @@
         ],
         "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
             "#08101e",
-            "#dce4ee"
+            "#e8edf5"
         ],
         "REDESIGN_BUTTON_SECONDARY_OVERLAY_BACKGROUND": [
             "#0e1828",
@@ -343,7 +343,7 @@
         ],
         "REDESIGN_CHAT_INPUT_BACKGROUND": [
             "#0e1a2e",
-            "#d0dae6"
+            "#dce4f0"
         ],
         "REDESIGN_INPUT_CONTROL_SELECTED": [
             "#70afff",
@@ -355,19 +355,19 @@
         ],
         "STANDALONE_CHANNEL_CONTENT_BACKGROUND": [
             "#0a1428",
-            "#e8eef5"
+            "#f2f5fa"
         ],
         "STANDALONE_CHANNEL_HEADER_BORDER": [
             "#0a1428",
-            "#e8eef5"
+            "#f2f5fa"
         ],
         "MOBILE_ACTIONSHEET_BACKGROUND": [
             "#08101e",
-            "#dce4ee"
+            "#e8edf5"
         ],
         "MOBILE_ACTIONSHEET_GRADIENT_BACKGROUND_DEFAULT": [
             "#08101e",
-            "#dce4ee"
+            "#e8edf5"
         ],
         "MOBILE_CHANNEL_ITEM_BACKGROUND_SELECTED": [
             "#70afff20",
@@ -375,7 +375,7 @@
         ],
         "MOBILE_SEGMENTED_CONTROL_BACKGROUND": [
             "#08101e",
-            "#dce4ee"
+            "#e8edf5"
         ],
         "MOBILE_TEXT_HEADING_PRIMARY": [
             "#ffffff",
@@ -419,7 +419,7 @@
         ],
         "DIVIDER_STRONG": [
             "#08101e",
-            "#dce4ee"
+            "#e8edf5"
         ],
         "POLLS_VICTOR_FILL": [
             "#70afff55",
@@ -435,7 +435,7 @@
         ],
         "SPOILER_REVEALED_BACKGROUND": [
             "#08101e",
-            "#dce4ee"
+            "#e8edf5"
         ],
         "STATUS_OFFLINE": [
             "#101828",
@@ -477,7 +477,7 @@
         ],
         "KEYBOARD": [
             "#08101e",
-            "#dce4ee"
+            "#e8edf5"
         ],
         "SCROLLBAR_THIN_THUMB": [
             "#70afff40",
