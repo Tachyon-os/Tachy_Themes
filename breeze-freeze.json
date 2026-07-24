@@ -1,7 +1,7 @@
 {
     "name": "Brain Freeze",
     "description": "Abyssal dark meets electric periwinkle blue. Cold and electric.",
-    "version": "1.8",
+    "version": "1.9",
     "authors": [
         {
             "name": "Ace",
@@ -628,7 +628,8 @@
             "UserCheckIcon": "#70afff",
             "NitroWheelIcon": "#70afff",
             "down_arrow": "#70afff",
-            "QuestsIcon": "#70afff"
+            "QuestsIcon": "#70afff",
+            "LanguageIcon": "#70afff"
         }
     },
     "spec": 2
