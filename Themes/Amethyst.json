@@ -1,7 +1,7 @@
 {
     "name": "Amethyst",
     "description": "Deep violet night with soft purple and rose accents.",
-    "version": "1.0",
+    "version": "1.1",
     "authors": [
         {
             "name": "Ace",
@@ -46,32 +46,32 @@
             "#ddd8ea"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#1e1936",
-            "#f6f5fa"
+            "#1e1936D9",
+            "#f6f5faD9"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#18142D",
-            "#eceaf4"
+            "#18142DE6",
+            "#eceaf4E6"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#282342",
             "#e4e1ef"
         ],
         "BACKGROUND_PRIMARY": [
-            "#1e1936",
-            "#f6f5fa"
+            "#1e1936D9",
+            "#f6f5faD9"
         ],
         "BACKGROUND_SECONDARY": [
-            "#18142D",
-            "#eceaf4"
+            "#18142DE6",
+            "#eceaf4E6"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#131024",
             "#e4e1ef"
         ],
         "BACKGROUND_TERTIARY": [
-            "#18142D",
-            "#eceaf4"
+            "#18142DE6",
+            "#eceaf4E6"
         ],
         "BADGE_BRAND_BG": [
             "#EF6794",
@@ -114,8 +114,8 @@
             "#e4e1ef"
         ],
         "CHAT_BACKGROUND": [
-            "#1e1936",
-            "#f6f5fa"
+            "#1e1936D9",
+            "#f6f5faD9"
         ],
         "EMBED_BACKGROUND": [
             "#18142D",
@@ -206,12 +206,12 @@
             "#7a6ad8"
         ],
         "BG_BASE_PRIMARY": [
-            "#1e1936",
-            "#f6f5fa"
+            "#1e1936D9",
+            "#f6f5faD9"
         ],
         "BG_BASE_SECONDARY": [
-            "#18142D",
-            "#eceaf4"
+            "#18142DE6",
+            "#eceaf4E6"
         ],
         "BG_BASE_TERTIARY": [
             "#131024",
@@ -246,16 +246,16 @@
             "#7a6ad8"
         ],
         "PANEL_BG": [
-            "#1e1936",
-            "#f6f5fa"
+            "#1e1936E6",
+            "#f6f5faE6"
         ],
         "BACKGROUND_SURFACE_HIGH": [
-            "#1e1936",
-            "#f6f5fa"
+            "#1e1936D9",
+            "#f6f5faD9"
         ],
         "TAB_BAR_BACKGROUND": [
-            "#18142D",
-            "#eceaf4"
+            "#18142DE6",
+            "#eceaf4E6"
         ],
         "TYPING_INDICATOR_BG": [
             "#18142D",
@@ -354,8 +354,8 @@
             "#ddd8ea"
         ],
         "STANDALONE_CHANNEL_CONTENT_BACKGROUND": [
-            "#1e1936",
-            "#f6f5fa"
+            "#1e1936D9",
+            "#f6f5faD9"
         ],
         "STANDALONE_CHANNEL_HEADER_BORDER": [
             "#1e1936",
@@ -582,7 +582,7 @@
         "CHAT_MENTIONS_FOREGROUND_DARK": "#EF6794"
     },
     "background": {
-        "blur": 0.0,
+        "blur": 0.05,
         "url": "https://raw.githubusercontent.com/Tachyon-os/Tachy_Themes/main/Wallpapers/amethyst-wallpaper.png"
     },
     "plus": {

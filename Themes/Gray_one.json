@@ -1,7 +1,7 @@
 {
     "name": "Gray_one",
     "description": "A Gray minimalist theme, a recolor inspired by Rosie Blue made by Mudrhiod",
-    "version": "4.0",
+    "version": "4.1",
     "authors": [
         {
             "name": "mudrhiod",
@@ -41,25 +41,25 @@
             "#2a2d31"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#212529"
+            "#212529D9"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#1c2024"
+            "#1c2024E6"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#2a2d31"
         ],
         "BACKGROUND_PRIMARY": [
-            "#212529"
+            "#212529D9"
         ],
         "BACKGROUND_SECONDARY": [
-            "#1c2024"
+            "#1c2024E6"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#191d20"
         ],
         "BACKGROUND_TERTIARY": [
-            "#1c2024"
+            "#1c2024E6"
         ],
         "BADGE_BRAND_BG": [
             "#F5C542"
@@ -89,7 +89,7 @@
             "#2a2d31"
         ],
         "CHAT_BACKGROUND": [
-            "#212529"
+            "#212529D9"
         ],
         "EMBED_BACKGROUND": [
             "#1c2024"
@@ -158,10 +158,10 @@
             "#C0C0C0"
         ],
         "BG_BASE_PRIMARY": [
-            "#212529"
+            "#212529D9"
         ],
         "BG_BASE_SECONDARY": [
-            "#1c2024"
+            "#1c2024E6"
         ],
         "BG_BASE_TERTIARY": [
             "#161a1d"
@@ -188,13 +188,13 @@
             "#C0C0C0"
         ],
         "PANEL_BG": [
-            "#212529"
+            "#212529E6"
         ],
         "BACKGROUND_SURFACE_HIGH": [
-            "#212529"
+            "#212529D9"
         ],
         "TAB_BAR_BACKGROUND": [
-            "#1c2024"
+            "#1c2024E6"
         ],
         "TYPING_INDICATOR_BG": [
             "#1c2024"
@@ -269,7 +269,7 @@
             "#2a2f33"
         ],
         "STANDALONE_CHANNEL_CONTENT_BACKGROUND": [
-            "#212529"
+            "#212529D9"
         ],
         "STANDALONE_CHANNEL_HEADER_BORDER": [
             "#212529"

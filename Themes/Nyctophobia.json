@@ -1,7 +1,7 @@
 {
     "name": "Nyctophobia",
     "description": "Deep midnight navy meets indigo and orbital blue. Dark. Ethereal.",
-    "version": "1.3",
+    "version": "1.4",
     "authors": [
         {
             "name": "Ace",
@@ -37,25 +37,25 @@
             "#243050"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#0e1828"
+            "#0e1828D9"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#081018"
+            "#081018E6"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#1e2840"
         ],
         "BACKGROUND_PRIMARY": [
-            "#0e1828"
+            "#0e1828D9"
         ],
         "BACKGROUND_SECONDARY": [
-            "#081018"
+            "#081018E6"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#060c14"
         ],
         "BACKGROUND_TERTIARY": [
-            "#081018"
+            "#081018E6"
         ],
         "BADGE_BRAND_BG": [
             "#d8b880"
@@ -88,7 +88,7 @@
             "#1e2840"
         ],
         "CHAT_BACKGROUND": [
-            "#0e1828"
+            "#0e1828D9"
         ],
         "EMBED_BACKGROUND": [
             "#081018"
@@ -157,10 +157,10 @@
             "#7080b8"
         ],
         "BG_BASE_PRIMARY": [
-            "#0e1828"
+            "#0e1828D9"
         ],
         "BG_BASE_SECONDARY": [
-            "#081018"
+            "#081018E6"
         ],
         "BG_BASE_TERTIARY": [
             "#060c14"
@@ -187,13 +187,13 @@
             "#7080b8"
         ],
         "PANEL_BG": [
-            "#0e1828"
+            "#0e1828E6"
         ],
         "BACKGROUND_SURFACE_HIGH": [
-            "#0e1828"
+            "#0e1828D9"
         ],
         "TAB_BAR_BACKGROUND": [
-            "#081018"
+            "#081018E6"
         ],
         "TYPING_INDICATOR_BG": [
             "#081018"
@@ -268,7 +268,7 @@
             "#243050"
         ],
         "STANDALONE_CHANNEL_CONTENT_BACKGROUND": [
-            "#0e1828"
+            "#0e1828D9"
         ],
         "STANDALONE_CHANNEL_HEADER_BORDER": [
             "#0e1828"
@@ -459,7 +459,7 @@
         "CHAT_MENTIONS_FOREGROUND_DARK": "#d8b880"
     },
     "background": {
-        "blur": 0.0,
+        "blur": 0.05,
         "url": "https://raw.githubusercontent.com/Tachyon-os/Tachy_Themes/main/Wallpapers/nyctophobia-wallpaper.png"
     },
     "plus": {

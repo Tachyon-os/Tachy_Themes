@@ -1,7 +1,7 @@
 {
     "name": "Void",
     "description": "Pure monochrome. Material tonal ramp, black to white, nothing else.",
-    "version": "5.4",
+    "version": "5.5",
     "authors": [
         {
             "name": "Ace",
@@ -46,32 +46,32 @@
             "#E3E3E3"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#121212",
-            "#FFFFFF"
+            "#121212D9",
+            "#FFFFFFD9"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#0F0F0F",
-            "#FAFAFA"
+            "#0F0F0FE6",
+            "#FAFAFAE6"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#262626",
             "#F2F2F2"
         ],
         "BACKGROUND_PRIMARY": [
-            "#121212",
-            "#FFFFFF"
+            "#121212D9",
+            "#FFFFFFD9"
         ],
         "BACKGROUND_SECONDARY": [
-            "#0F0F0F",
-            "#FAFAFA"
+            "#0F0F0FE6",
+            "#FAFAFAE6"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#000000",
             "#F2F2F2"
         ],
         "BACKGROUND_TERTIARY": [
-            "#0F0F0F",
-            "#FAFAFA"
+            "#0F0F0FE6",
+            "#FAFAFAE6"
         ],
         "BADGE_BRAND_BG": [
             "#FFFFFF",
@@ -114,8 +114,8 @@
             "#E3E3E3"
         ],
         "CHAT_BACKGROUND": [
-            "#121212",
-            "#FFFFFF"
+            "#121212D9",
+            "#FFFFFFD9"
         ],
         "EMBED_BACKGROUND": [
             "#0F0F0F",
@@ -206,12 +206,12 @@
             "#474747"
         ],
         "BG_BASE_PRIMARY": [
-            "#121212",
-            "#FFFFFF"
+            "#121212D9",
+            "#FFFFFFD9"
         ],
         "BG_BASE_SECONDARY": [
-            "#0F0F0F",
-            "#FAFAFA"
+            "#0F0F0FE6",
+            "#FAFAFAE6"
         ],
         "BG_BASE_TERTIARY": [
             "#000000",
@@ -246,16 +246,16 @@
             "#1a7a40"
         ],
         "PANEL_BG": [
-            "#121212",
-            "#FFFFFF"
+            "#121212E6",
+            "#FFFFFFE6"
         ],
         "BACKGROUND_SURFACE_HIGH": [
-            "#121212",
-            "#FFFFFF"
+            "#121212D9",
+            "#FFFFFFD9"
         ],
         "TAB_BAR_BACKGROUND": [
-            "#0F0F0F",
-            "#FAFAFA"
+            "#0F0F0FE6",
+            "#FAFAFAE6"
         ],
         "TYPING_INDICATOR_BG": [
             "#0F0F0F",
@@ -354,8 +354,8 @@
             "#1a7a40"
         ],
         "STANDALONE_CHANNEL_CONTENT_BACKGROUND": [
-            "#121212",
-            "#FFFFFF"
+            "#121212D9",
+            "#FFFFFFD9"
         ],
         "STANDALONE_CHANNEL_HEADER_BORDER": [
             "#121212",
@@ -602,7 +602,7 @@
         "YELLOW_260": "#C7C7C7"
     },
     "background": {
-        "blur": 0.0,
+        "blur": 0.05,
         "url": "https://raw.githubusercontent.com/Tachyon-os/Tachy_Themes/main/Wallpapers/void-wallpaper.png"
     },
     "plus": {
