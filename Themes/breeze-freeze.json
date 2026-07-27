@@ -1,7 +1,7 @@
 {
     "name": "Brain Freeze",
     "description": "Abyssal dark meets electric periwinkle blue. Cold and electric.",
-    "version": "1.9",
+    "version": "1.10",
     "authors": [
         {
             "name": "Ace",
@@ -46,32 +46,32 @@
             "#b8c8d8"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#0a1428",
-            "#f2f5fa"
+            "#0a1428D9",
+            "#f2f5faD9"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#08101e",
-            "#e8edf5"
+            "#08101eE6",
+            "#e8edf5E6"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#0e1a2e",
             "#dce4f0"
         ],
         "BACKGROUND_PRIMARY": [
-            "#0a1428",
-            "#f2f5fa"
+            "#0a1428D9",
+            "#f2f5faD9"
         ],
         "BACKGROUND_SECONDARY": [
-            "#08101e",
-            "#e8edf5"
+            "#08101eE6",
+            "#e8edf5E6"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#0a1222",
             "#dce4ee"
         ],
         "BACKGROUND_TERTIARY": [
-            "#08101e",
-            "#e8edf5"
+            "#08101eE6",
+            "#e8edf5E6"
         ],
         "BADGE_BRAND_BG": [
             "#70afff",
@@ -114,8 +114,8 @@
             "#dce4f0"
         ],
         "CHAT_BACKGROUND": [
-            "#0a1428",
-            "#f2f5fa"
+            "#0a1428D9",
+            "#f2f5faD9"
         ],
         "EMBED_BACKGROUND": [
             "#08101e",
@@ -206,12 +206,12 @@
             "#5898ee"
         ],
         "BG_BASE_PRIMARY": [
-            "#0a1428",
-            "#f2f5fa"
+            "#0a1428D9",
+            "#f2f5faD9"
         ],
         "BG_BASE_SECONDARY": [
-            "#08101e",
-            "#e8edf5"
+            "#08101eE6",
+            "#e8edf5E6"
         ],
         "BG_BASE_TERTIARY": [
             "#0a1020",
@@ -246,16 +246,16 @@
             "#5898ee"
         ],
         "PANEL_BG": [
-            "#0a1428",
-            "#f2f5fa"
+            "#0a1428E6",
+            "#f2f5faE6"
         ],
         "BACKGROUND_SURFACE_HIGH": [
-            "#0a1428",
-            "#f2f5fa"
+            "#0a1428D9",
+            "#f2f5faD9"
         ],
         "TAB_BAR_BACKGROUND": [
-            "#08101e",
-            "#e8edf5"
+            "#08101eE6",
+            "#e8edf5E6"
         ],
         "TYPING_INDICATOR_BG": [
             "#08101e",
@@ -354,8 +354,8 @@
             "#d8d0c8"
         ],
         "STANDALONE_CHANNEL_CONTENT_BACKGROUND": [
-            "#0a1428",
-            "#f2f5fa"
+            "#0a1428D9",
+            "#f2f5faD9"
         ],
         "STANDALONE_CHANNEL_HEADER_BORDER": [
             "#0a1428",
@@ -584,7 +584,7 @@
         "CHAT_MENTIONS_FOREGROUND_DARK": "#70afff"
     },
     "background": {
-        "blur": 0.0,
+        "blur": 0.05,
         "url": "https://raw.githubusercontent.com/Tachyon-os/Tachy_Themes/main/Wallpapers/breeze-wallpaper.png"
     },
     "plus": {
