@@ -1,7 +1,7 @@
 {
-    "name": "Void",
-    "description": "Pure monochrome. Material tonal ramp, black to white, nothing else.",
-    "version": "5.5",
+    "name": "Monolith",
+    "description": "Pure monochrome. A Material tonal ramp, black to white, nothing else.",
+    "version": "5.7",
     "authors": [
         {
             "name": "Ace",
@@ -158,8 +158,8 @@
             "#000000"
         ],
         "INTERACTIVE_MUTED": [
-            "#474747",
-            "#C7C7C7"
+            "#6E6E6E",
+            "#9A9A9A"
         ],
         "INTERACTIVE_NORMAL": [
             "#C7C7C7",
@@ -603,7 +603,7 @@
     },
     "background": {
         "blur": 0.05,
-        "url": "https://raw.githubusercontent.com/Tachyon-os/Tachy_Themes/main/Wallpapers/void-wallpaper.png"
+        "url": "https://raw.githubusercontent.com/Tachyon-os/Tachy_Themes/main/Wallpapers/monolith-wallpaper.png"
     },
     "plus": {
         "version": "0",
