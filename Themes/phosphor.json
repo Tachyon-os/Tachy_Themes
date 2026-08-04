@@ -1,7 +1,7 @@
 {
     "name": "Phosphor",
     "description": "Neon yellow on off-black. Terminal energy, clean surfaces.",
-    "version": "2.1",
+    "version": "2.2",
     "authors": [
         {
             "name": "Ace",
@@ -11,19 +11,19 @@
     "semanticColors": {
         "ANDROID_RIPPLE": [
             "#CEFE4630",
-            "#6F940020"
+            "#CEFE4644"
         ],
         "BACKGROUND_ACCENT": [
             "#CEFE46",
-            "#6F9400"
+            "#CEFE46"
         ],
         "BACKGROUND_MENTIONED": [
             "#CEFE4614",
-            "#6F940016"
+            "#CEFE4633"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
             "#CEFE4628",
-            "#6F940024"
+            "#CEFE4655"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
             "#FFFFFF07",
@@ -75,11 +75,11 @@
         ],
         "BADGE_BRAND_BG": [
             "#CEFE46",
-            "#6F9400"
+            "#CEFE46"
         ],
         "BADGE_BRAND_TEXT": [
             "#121212",
-            "#FFFFFF"
+            "#121212"
         ],
         "BORDER_FAINT": [
             "#3A3A3A",
@@ -143,15 +143,15 @@
         ],
         "INPUT_BORDER_ACTIVE": [
             "#CEFE46",
-            "#6F9400"
+            "#3B6200"
         ],
         "INPUT_FOCUSED_BORDER": [
             "#CEFE46",
-            "#6F9400"
+            "#3B6200"
         ],
         "INTERACTIVE_ACTIVE": [
             "#CEFE46",
-            "#6F9400"
+            "#3B6200"
         ],
         "INTERACTIVE_HOVER": [
             "#FFFFFF",
@@ -171,7 +171,7 @@
         ],
         "MENTION_FOREGROUND": [
             "#CEFE46",
-            "#6F9400"
+            "#3B6200"
         ],
         "TEXT_DANGER": [
             "#FF7A6B",
@@ -179,7 +179,7 @@
         ],
         "TEXT_LINK": [
             "#CEFE46",
-            "#6F9400"
+            "#3B6200"
         ],
         "TEXT_NORMAL": [
             "#ECECEC",
@@ -195,15 +195,15 @@
         ],
         "TEXT_WARNING": [
             "#DFFF7A",
-            "#7A6210"
+            "#4E7D0A"
         ],
         "TEXT_POSITIVE": [
             "#CEFE46",
-            "#6F9400"
+            "#3B6200"
         ],
         "THREAD_CHANNEL_SPINE": [
             "#A8D628",
-            "#6F9400"
+            "#3B6200"
         ],
         "BG_BASE_PRIMARY": [
             "#121212D9",
@@ -243,7 +243,7 @@
         ],
         "BG_BRAND": [
             "#CEFE46",
-            "#6F9400"
+            "#CEFE46"
         ],
         "PANEL_BG": [
             "#121212E6",
@@ -303,19 +303,19 @@
         ],
         "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
             "#CEFE46",
-            "#6F9400"
+            "#CEFE46"
         ],
         "REDESIGN_BUTTON_PRIMARY_ALT_BACKGROUND": [
             "#A8D628",
-            "#5C7C00"
+            "#B4E82E"
         ],
         "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
             "#A8D628",
-            "#4A6400"
+            "#9FD41F"
         ],
         "REDESIGN_BUTTON_PRIMARY_TEXT": [
             "#121212",
-            "#FFFFFF"
+            "#121212"
         ],
         "REDESIGN_BUTTON_DESTRUCTIVE_BACKGROUND": [
             "#2C2C2C",
@@ -327,7 +327,7 @@
         ],
         "REDESIGN_BUTTON_ACTIVE_TEXT": [
             "#CEFE46",
-            "#6F9400"
+            "#3B6200"
         ],
         "REDESIGN_BUTTON_DANGER_BACKGROUND": [
             "#2C2C2C",
@@ -347,11 +347,11 @@
         ],
         "REDESIGN_INPUT_CONTROL_SELECTED": [
             "#CEFE46",
-            "#6F9400"
+            "#CEFE46"
         ],
         "REDESIGN_INPUT_CONTROL_ACTIVE_BG": [
             "#CEFE46",
-            "#6F9400"
+            "#CEFE46"
         ],
         "REDESIGN_INPUT_CONTROL_UNSELECTED": [
             "#3A3A3A",
@@ -363,11 +363,11 @@
         ],
         "CONTROL_BRAND_FOREGROUND": [
             "#CEFE46",
-            "#6F9400"
+            "#CEFE46"
         ],
         "CONTROL_BRAND_FOREGROUND_NEW": [
             "#CEFE46",
-            "#6F9400"
+            "#CEFE46"
         ],
         "STANDALONE_CHANNEL_CONTENT_BACKGROUND": [
             "#121212D9",
@@ -403,7 +403,7 @@
         ],
         "LOGO_PRIMARY": [
             "#CEFE46",
-            "#6F9400"
+            "#3B6200"
         ],
         "CONTROL_CRITICAL_PRIMARY_BACKGROUND_ACTIVE": [
             "#2C2C2C",
@@ -411,11 +411,11 @@
         ],
         "CONTROL_PRIMARY_BACKGROUND_DEFAULT": [
             "#CEFE46",
-            "#6F9400"
+            "#CEFE46"
         ],
         "CONTROL_PRIMARY_BACKGROUND_ACTIVE": [
             "#A8D628",
-            "#5C7C00"
+            "#B4E82E"
         ],
         "CONTROL_SECONDARY_BACKGROUND_DEFAULT": [
             "#2C2C2C",
@@ -439,11 +439,11 @@
         ],
         "POLLS_VICTOR_FILL": [
             "#CEFE4650",
-            "#6F940044"
+            "#CEFE4680"
         ],
         "POLLS_VOTED_FILL": [
             "#CEFE4630",
-            "#6F940028"
+            "#CEFE4655"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
             "#2C2C2C",
@@ -471,11 +471,11 @@
         ],
         "STATUS_POSITIVE_BACKGROUND": [
             "#1A2008",
-            "#E8F4C0"
+            "#CEFE462E"
         ],
         "STATUS_POSITIVE_TEXT": [
             "#CEFE46",
-            "#6F9400"
+            "#3B6200"
         ],
         "STATUS_WARNING_BACKGROUND": [
             "#202020",
@@ -483,7 +483,7 @@
         ],
         "STATUS_WARNING_TEXT": [
             "#DFFF7A",
-            "#7A6210"
+            "#4E7D0A"
         ],
         "STATUS_DANGER_BACKGROUND": [
             "#1F0C0A",
@@ -491,7 +491,7 @@
         ],
         "BUTTON_OUTLINE_DANGER_BORDER": [
             "#CEFE46",
-            "#6F9400"
+            "#3B6200"
         ],
         "KEYBOARD": [
             "#0E0E0E",
@@ -515,7 +515,7 @@
         ],
         "CHAT_MENTIONS_BACKGROUND": [
             "#CEFE4616",
-            "#6F940016"
+            "#CEFE4633"
         ]
     },
     "rawColors": {
