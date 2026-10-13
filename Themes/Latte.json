@@ -1,7 +1,7 @@
 {
     "name": "Latte",
     "description": "Dark canvas, Catppuccin Latte accents. Mauve, blue, red and gold on deep slate.",
-    "version": "2.0",
+    "version": "2.1",
     "authors": [
         {
             "name": "Ace",
@@ -14,8 +14,8 @@
             "#8839ef30"
         ],
         "BACKGROUND_ACCENT": [
-            "#8839ef",
-            "#8839ef"
+            "#7287fd",
+            "#7287fd"
         ],
         "BACKGROUND_MENTIONED": [
             "#8839ef1A",
@@ -142,12 +142,12 @@
             "#383C50"
         ],
         "INPUT_BORDER_ACTIVE": [
-            "#8839ef",
-            "#8839ef"
+            "#7287fd",
+            "#7287fd"
         ],
         "INPUT_FOCUSED_BORDER": [
-            "#8839ef",
-            "#8839ef"
+            "#7287fd",
+            "#7287fd"
         ],
         "INTERACTIVE_ACTIVE": [
             "#F2F4F9",
@@ -170,16 +170,16 @@
             "#282B3A"
         ],
         "MENTION_FOREGROUND": [
-            "#8839ef",
-            "#8839ef"
+            "#7287fd",
+            "#7287fd"
         ],
         "TEXT_DANGER": [
             "#d20f39",
             "#d20f39"
         ],
         "TEXT_LINK": [
-            "#1e66f5",
-            "#1e66f5"
+            "#e64553",
+            "#e64553"
         ],
         "TEXT_NORMAL": [
             "#E6E9F2",
@@ -242,8 +242,8 @@
             "#22242FCC"
         ],
         "BG_BRAND": [
-            "#8839ef",
-            "#8839ef"
+            "#7287fd",
+            "#7287fd"
         ],
         "PANEL_BG": [
             "#303446",
@@ -302,16 +302,16 @@
             "#E6E9F2"
         ],
         "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
-            "#8839ef",
-            "#8839ef"
+            "#7287fd",
+            "#7287fd"
         ],
         "REDESIGN_BUTTON_PRIMARY_ALT_BACKGROUND": [
-            "#9f5cf5",
-            "#9f5cf5"
+            "#8c9dfd",
+            "#8c9dfd"
         ],
         "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
-            "#6e2bc0",
-            "#6e2bc0"
+            "#5468e0",
+            "#5468e0"
         ],
         "REDESIGN_BUTTON_PRIMARY_TEXT": [
             "#F2F4F9",
@@ -346,12 +346,12 @@
             "#40445A"
         ],
         "REDESIGN_INPUT_CONTROL_SELECTED": [
-            "#8839ef",
-            "#8839ef"
+            "#7287fd",
+            "#7287fd"
         ],
         "REDESIGN_INPUT_CONTROL_ACTIVE_BG": [
-            "#8839ef",
-            "#8839ef"
+            "#7287fd",
+            "#7287fd"
         ],
         "REDESIGN_INPUT_CONTROL_UNSELECTED": [
             "#5A5F7A",
@@ -362,12 +362,12 @@
             "#5A5F7A"
         ],
         "CONTROL_BRAND_FOREGROUND": [
-            "#8839ef",
-            "#8839ef"
+            "#7287fd",
+            "#7287fd"
         ],
         "CONTROL_BRAND_FOREGROUND_NEW": [
-            "#8839ef",
-            "#8839ef"
+            "#7287fd",
+            "#7287fd"
         ],
         "STANDALONE_CHANNEL_CONTENT_BACKGROUND": [
             "#303446",
@@ -402,20 +402,20 @@
             "#F2F4F9"
         ],
         "LOGO_PRIMARY": [
-            "#8839ef",
-            "#8839ef"
+            "#7287fd",
+            "#7287fd"
         ],
         "CONTROL_CRITICAL_PRIMARY_BACKGROUND_ACTIVE": [
             "#4A4F68",
             "#4A4F68"
         ],
         "CONTROL_PRIMARY_BACKGROUND_DEFAULT": [
-            "#8839ef",
-            "#8839ef"
+            "#7287fd",
+            "#7287fd"
         ],
         "CONTROL_PRIMARY_BACKGROUND_ACTIVE": [
-            "#6e2bc0",
-            "#6e2bc0"
+            "#5468e0",
+            "#5468e0"
         ],
         "CONTROL_SECONDARY_BACKGROUND_DEFAULT": [
             "#4A4F68",
@@ -530,20 +530,20 @@
         "PRIMARY_530": "#5A5F7A",
         "PRIMARY_600": "#303446",
         "PRIMARY_630": "#282B3A",
-        "PRIMARY_645": "#8839ef",
+        "PRIMARY_645": "#7287fd",
         "PRIMARY_660": "#22242F",
         "PRIMARY_700": "#303446",
         "PRIMARY_730": "#282B3A",
         "PRIMARY_800": "#22242F",
-        "PLUM_0": "#8839ef",
+        "PLUM_0": "#7287fd",
         "PLUM_3": "#F2F4F9",
         "PLUM_4": "#E6E9F2",
         "PLUM_6": "#A6AABF",
         "PLUM_10": "#9195AC",
         "PLUM_11": "#4A4F68",
-        "PLUM_13": "#8839ef",
+        "PLUM_13": "#7287fd",
         "PLUM_14": "#4A4F68",
-        "PLUM_15": "#8839ef",
+        "PLUM_15": "#7287fd",
         "PLUM_16": "#22242F",
         "PLUM_17": "#282B3A",
         "PLUM_18": "#303446",
@@ -552,28 +552,28 @@
         "PLUM_23": "#40445A",
         "PLUM_24": "#282B3A",
         "BRAND_260": "#8839efAA",
-        "BRAND_300": "#8839ef",
-        "BRAND_330": "#8839ef",
-        "BRAND_345": "#8839ef",
-        "BRAND_360": "#8839ef",
-        "BRAND_400": "#8839ef",
-        "BRAND_430": "#9f5cf5",
-        "BRAND_460": "#9f5cf5",
-        "BRAND_500": "#8839ef",
-        "BRAND_530": "#6e2bc0",
-        "BRAND_560": "#5e26a3",
-        "BRAND_600": "#4e1f88",
-        "BRAND_630": "#3e196d",
-        "BRAND_660": "#2e1352",
-        "BRAND_700": "#1f0d37",
-        "BRAND_730": "#13081f",
-        "BLURPLE_5": "#8839ef",
-        "BLURPLE_8": "#8839ef",
+        "BRAND_300": "#7287fd",
+        "BRAND_330": "#7287fd",
+        "BRAND_345": "#7287fd",
+        "BRAND_360": "#7287fd",
+        "BRAND_400": "#7287fd",
+        "BRAND_430": "#8c9dfd",
+        "BRAND_460": "#8c9dfd",
+        "BRAND_500": "#7287fd",
+        "BRAND_530": "#5468e0",
+        "BRAND_560": "#3f52c4",
+        "BRAND_600": "#3344a8",
+        "BRAND_630": "#27368c",
+        "BRAND_660": "#1b2870",
+        "BRAND_700": "#101a54",
+        "BRAND_730": "#0a1038",
+        "BLURPLE_5": "#7287fd",
+        "BLURPLE_8": "#7287fd",
         "GUILD_BOOSTING_BLUE": "#303446",
         "GUILD_BOOSTING_BLUE_FOR_GRADIENTS": "#40445A",
         "GUILD_BOOSTING_PINK": "#ea76cb",
         "GUILD_BOOSTING_PINK_REFRESH": "#dd7878",
-        "GUILD_BOOSTING_PURPLE": "#6e2bc0",
+        "GUILD_BOOSTING_PURPLE": "#5468e0",
         "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#40445A",
         "PREMIUM_PERK_PINK": "#ea76cb",
         "PREMIUM_TIER_0_HEADER_GRADIENT_1": "#303446",
@@ -600,7 +600,7 @@
         "ROLE_DEFAULT": "#40445A",
         "BLACK_460": "#40445A",
         "CHAT_MENTIONS_BACKGROUND_DARK": "#8839ef30",
-        "CHAT_MENTIONS_FOREGROUND_DARK": "#8839ef"
+        "CHAT_MENTIONS_FOREGROUND_DARK": "#7287fd"
     },
     "background": {
         "blur": 0.0,
@@ -609,34 +609,34 @@
     "plus": {
         "version": "0",
         "iconpack": "iconsaxbulk",
-        "mentionLineColor": "#8839ef",
+        "mentionLineColor": "#7287fd",
         "customOverlays": true,
         "icons": {
-            "ic_radio_circle_checked": "#8839ef",
+            "ic_radio_circle_checked": "#7287fd",
             "ic_radio_circle_checked__overlay": "#F2F4F9",
-            "ic_radio_square_24px": "#8839ef",
-            "ic_radio_square_checked_24px": "#8839ef",
+            "ic_radio_square_24px": "#7287fd",
+            "ic_radio_square_checked_24px": "#7287fd",
             "ic_radio_square_checked_24px__overlay": "#F2F4F9",
             "ic_rich_presence_dark_12px": "#9195AC",
-            "ic_selection_checked_24px": "#8839ef",
+            "ic_selection_checked_24px": "#7287fd",
             "ic_selection_checked_24px__overlay": "#F2F4F9",
             "ic_selection_none_24px": "#5A5F7A",
             "ic_star_filled": "#df8e1d",
-            "img_guild_folder": "#8839ef",
+            "img_guild_folder": "#7287fd",
             "StatusMobileOnline": "#40a02b",
             "StatusOnline": "#40a02b",
             "StatusIdle": "#df8e1d",
             "StatusDND": "#d20f39",
             "StatusOffline": "#71758F",
             "ic_send": "#F2F4F9",
-            "ic_send__overlay": "#8839ef",
-            "friends_toast_icon": "#8839ef",
-            "toast_copy_link": "#8839ef",
-            "toast_copy_message": "#8839ef",
-            "toast_image_saved": "#8839ef",
-            "toast_invite_sent": "#8839ef",
+            "ic_send__overlay": "#7287fd",
+            "friends_toast_icon": "#7287fd",
+            "toast_copy_link": "#7287fd",
+            "toast_copy_message": "#7287fd",
+            "toast_image_saved": "#7287fd",
+            "toast_invite_sent": "#7287fd",
             "ic_crown_16px": "#df8e1d",
-            "member_list_badge_16px": "#8839ef",
+            "member_list_badge_16px": "#7287fd",
             "ic_nitro_rep_24px": "#ea76cb",
             "ShopIcon": "#A6AABF",
             "PencilIcon": "#A6AABF",
