@@ -1,7 +1,7 @@
 {
   "name": "Brain Freeze",
   "description": "Abyssal dark meets electric periwinkle blue. Cold and electric.",
-  "version": "1.14",
+  "version": "1.15",
   "authors": [
     {
       "name": "Ace",
@@ -593,7 +593,7 @@
   "plus": {
     "version": "0",
     "iconpack": "solarbroken",
-    "mentionLineColor": "#86efac",
+    "mentionLineColor": -7934036,
     "customOverlays": true,
     "icons": {
       "ic_radio_circle_checked": "#70afff",
